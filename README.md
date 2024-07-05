@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadAli0917&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAli0917&layout=compact&theme=radical)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MuhammadAli0917&theme=github)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MuhammadAli0917)](https://git.io/streak-stats)
 
