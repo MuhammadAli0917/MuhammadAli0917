@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadAli0917&show_icons=true&theme=radical)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MuhammadAli0917)](https://git.io/streak-stats)
 
 <!--
