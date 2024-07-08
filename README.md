@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAli0917&layout=compact&theme=radical)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAli0917&theme=github)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MuhammadAli0917)](https://git.io/streak-stats)
 
 <!--
 **MuhammadAli0917/MuhammadAli0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
